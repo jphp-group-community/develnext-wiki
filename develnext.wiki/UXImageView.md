@@ -1,0 +1,1 @@
+- **class** `UXImageView` (`php\gui\UXImageView`) **extends** [`UXNode`](UXNode).
